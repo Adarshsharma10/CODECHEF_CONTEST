@@ -1,0 +1,1 @@
+{"name":"Local: Make_An_AP","url":"d:\\CODECHEF_CONTEST\\Starters 217\\Make_An_AP.cpp","tests":[{"id":1765986107540,"input":"3\n2\n1 3\n3\n1 7 9\n4\n1 42 43 100","output":"0\n2\n96"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODECHEF_CONTEST\\Starters 217\\Make_An_AP.cpp","group":"local","local":true}

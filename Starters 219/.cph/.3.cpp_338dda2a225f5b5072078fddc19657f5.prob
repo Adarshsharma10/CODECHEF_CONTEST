@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"d:\\CODECHEF_CONTEST\\Starters 219\\3.cpp","tests":[{"id":1767195864777,"input":"3\n2\n5 10\n3\n1 1 1\n3\n5 2 7","output":"25 25\n5 7\n23 37"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODECHEF_CONTEST\\Starters 219\\3.cpp","group":"local","local":true}
