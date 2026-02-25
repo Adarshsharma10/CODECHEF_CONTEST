@@ -1,0 +1,1 @@
+{"name":"Local: Equal_Elements","url":"d:\\CODECHEF_CONTEST\\Starters 227\\Equal_Elements.cpp","tests":[{"id":1772036285374,"input":"3\n4\n1 1 3 3\n3\n2 2 2\n9\n1 2 1 2 3 2 3 4 4","output":"4\n2\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODECHEF_CONTEST\\Starters 227\\Equal_Elements.cpp","group":"local","local":true}
