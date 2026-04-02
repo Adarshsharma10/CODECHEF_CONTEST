@@ -1,0 +1,1 @@
+{"name":"Local: Set Size","url":"d:\\CODECHEF_CONTEST\\Starters 232\\Set Size.cpp","tests":[{"id":1775059845227,"input":"4 5\n8 8 1 6\n1\n2\n3\n10\n1000000000","output":"3\n6\n8\n17\n1000000007"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODECHEF_CONTEST\\Starters 232\\Set Size.cpp","group":"local","local":true}
