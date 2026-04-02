@@ -1,0 +1,1 @@
+{"name":"Local: Moderate Temperatures","url":"d:\\CODECHEF_CONTEST\\Starters 232\\Moderate Temperatures.cpp","tests":[{"id":1775053939907,"input":"4\n5\n1 2 3 4 5\n4\n1 1 2 2\n5\n9 9 1 3 1\n3\n5 5 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODECHEF_CONTEST\\Starters 232\\Moderate Temperatures.cpp","group":"local","local":true}
