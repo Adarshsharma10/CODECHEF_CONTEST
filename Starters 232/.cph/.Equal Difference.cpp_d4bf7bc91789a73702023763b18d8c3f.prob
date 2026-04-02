@@ -1,0 +1,1 @@
+{"name":"Local: Equal Difference","url":"d:\\CODECHEF_CONTEST\\Starters 232\\Equal Difference.cpp","tests":[{"id":1775054411473,"input":"3\n3\n1 2 3\n3\n3 2 1\n5\n1 1 3 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODECHEF_CONTEST\\Starters 232\\Equal Difference.cpp","group":"local","local":true}
